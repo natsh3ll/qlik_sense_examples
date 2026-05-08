@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Qlik generated/cache files
+*.qvd
+*.qvx
+*.qvf
+*.qvw
+
+# Secrets
+.env
+secrets.json
+*.pem
+*.key
