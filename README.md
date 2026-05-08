@@ -1,2 +1,2 @@
 # qlik-load-scripts
-Projects code and visualisation examples
+Qlik Sense projects code and visualisation examples
