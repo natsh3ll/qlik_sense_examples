@@ -1,2 +1,2 @@
 # qlik-load-scripts
-Load scripts examples
+Projects code and visualisation examples
